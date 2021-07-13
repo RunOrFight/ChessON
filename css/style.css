@@ -38,3 +38,9 @@
        url('../fonts/montserrat-alternates-v12-latin-900.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../fonts/montserrat-alternates-v12-latin-900.svg#MontserratAlternates') format('svg'); /* Legacy iOS */
 }
+html{
+  box-sizing: border-box;
+}
+*, *::before, *::after{
+  box-sizing: inherit;
+}
