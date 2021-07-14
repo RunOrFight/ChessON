@@ -164,3 +164,64 @@ body{
   background-position-y: 130px;
   background-size: cover;
 }
+.intro_title{
+  max-width: 735px;
+  padding-top: 310px;
+  font-family: Montserrat Alternates;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 74px;
+  line-height: 73px;
+  color: #313131;
+  margin-bottom: 40px;
+}
+.intro_subtitle{
+  max-width: 464px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 37px;
+  color: #313131;
+  margin-bottom: 50px;
+}
+.intro_button{
+  width: 338px;
+  height: 65px;
+  background: #E95F4E;
+  color: whitesmoke;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+  border: 0;
+  
+}
+.advantages_title{
+  padding-top: 170px;
+  font-family: Montserrat Alternates;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 50px;
+  line-height: 61px;
+  color: #313131;
+  max-width: 800px;
+  margin-top: 60px;
+}
+.advantages_list{
+  display: flex;
+  flex-wrap: wrap;
+  
+  
+}
+.advantages_item{
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 225px;
+  line-height: 270px;
+
+  color:  rgba(119, 198, 199, 0.45);
+
+}
